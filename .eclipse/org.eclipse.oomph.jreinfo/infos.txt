@@ -1,0 +1,2 @@
+C:\Program Files\Java\jdk-23;23;0;0;64;true;1726856540545;x86_64
+C:\Program Files\Java\jdk-20;20;0;1;64;true;1689688765640;x86_64
